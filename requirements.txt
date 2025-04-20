@@ -2,3 +2,10 @@ streamlit
 joblib==1.4.0
 pandas
 scikit-learn
+streamlit-option-menu
+seaborn
+streamlit-extras
+SQLAlchemy
+psycopg2-binary
+plotly
+shap
